@@ -1,0 +1,34 @@
+--- ETIQUETAS --- 
+<h1 ... h6> Titulos y subtitulos
+<p> bloques de texto
+<ol> - <ul> Listas
+<a> Links
+|
+|
+---> <href = 'direccion deseada'>
+     |
+     | 
+     ----> _self ->> Misma Pagina
+           _blank ->> Diferente Pagina
+
+
+
+
+<forms> formularios
+|
+|
+---> <input type>
+     |
+     | 	
+     ----- type = {text, email, password, checkbox...}   
+
+	|
+        |
+	---> Propiedades = {}
+--- CLASES ---
+<etiqueta class='nombre-de-la-clase-'>
+--- CSS ---
+padding ---> separacion de boredes
+margin --> separacion de inputs
+
+
